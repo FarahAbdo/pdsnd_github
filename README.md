@@ -1,4 +1,4 @@
-### Project 2
+# Project 2
 
 ### Date created
 7 October 2023
@@ -15,7 +15,7 @@ new_york_city.csv
 washington.csv
 
 
-### Project 3
+# Project 3
 
 ## Overview:
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
